@@ -173,8 +173,8 @@ i {z-index: 2;}
 .home__profile-box { margin-right: 6rem;}
 
 .home__profile-img {
-    height: 40rem;
-    border-radius: 80%;
+    height: 30rem;
+    border-radius: 100%;
 }
 
 /* PROJECTS */
